@@ -61,3 +61,4 @@ fastlane/test_output
 
 # Idea
 .idea
+/Slider.xcodeproj/project.xcworkspace/xcshareddata

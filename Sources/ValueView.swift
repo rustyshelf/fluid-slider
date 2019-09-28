@@ -33,6 +33,7 @@ class ValueView : UIView {
         addSubview(shapeView)
         
         shapeView.addSubview(textLabel)
+        textLabel.textColor = UIColor.black
     }
     
     // MARK: - Layers
